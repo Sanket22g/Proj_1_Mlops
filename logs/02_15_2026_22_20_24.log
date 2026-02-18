@@ -1,0 +1,3 @@
+[ 2026-02-15 22:20:24,843 ] root - INFO - this is exception log
+[ 2026-02-15 22:20:24,844 ] root - ERROR - this is error log
+[ 2026-02-15 22:20:24,844 ] root - ERROR - Error occurred in python script: [f:\Proj_1_Mlops\demo_exp_logg.py] at line number [6]: unsupported operand type(s) for +: 'int' and 'str'
